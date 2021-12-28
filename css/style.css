@@ -1,0 +1,115 @@
+
+body {
+    background: url('../img/fundo.jpg'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    position: absolute;  
+    padding: 30px 0 0 60px;
+    width: 4%;
+}
+
+
+h1{
+    position: absolute;  
+    padding: 50px 0 0 140px;
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.caixa {
+   position: relative;
+   width: 1700px;
+}
+
+.menu {
+ position: absolute;   
+ top: 50px;
+ right: 0;
+ text-align: right;
+ margin: 10px 0 0 30px;
+
+}
+
+.menu li {
+    display: inline;
+    margin: 10px 0 0 30px;
+}
+
+.menu a{
+    text-transform: uppercase;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.menu a:hover{
+    color: #FFCE9E;
+    font-size: 50px;
+}
+
+
+main {
+
+    position: absolute;   
+    top: 350px;
+    right: 0;
+    text-align: right;
+    padding-right: 20px;
+    font-size: 20px;
+}
+
+
+.botao1 {
+padding: 70px;
+
+
+}
+.botao {
+    display: inline-block;
+    padding: 16px 32px;
+    background: #FFCE9E;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px;
+    text-transform: uppercase;
+    color: #111;
+    font: 600 1.125rem/1.35 "Poppins", sans-serif;
+    max-width: max-content;
+    border: none;
+    cursor: pointer;
+    margin-left: 700px;
+    
+}
+
+.botao:hover {
+ background:#fff;
+}
+
+.footer {
+position: absolute; 
+display: inline;
+width: 1600px;
+background-color: #FFFFEA;;
+margin: 900px 0 0 0;
+font-size: 30px;
+padding: 150px;
+color: #111;
+text-align: center;
+}
+
+.rodape {
+margin: -110px;
+ width: 5%;
+ text-align: center;
+}
+
+.texto {
+    padding: 50px;     
+}
