@@ -36,7 +36,7 @@ Já na segunda, ficou um site mais estruturado com a utilização do HTML semân
 ![image](https://user-images.githubusercontent.com/89873481/168181194-1b2f6852-ea63-46b7-8430-facc92c80800.png)
 
 
-📌 Link do projeto no github Pages: 
+📌 Link do projeto no github Pages: https://williamfirmino92.github.io/02.Projeto-Adote-Aqui-WF/
  
 
 
