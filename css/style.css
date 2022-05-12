@@ -1,0 +1,168 @@
+/*  Importação das fontes que estão sendo utilizadas no site */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+
+/* Página Principal - Index  */
+/* Configurações gerais do site Adote Aqui */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+   }
+
+ /* Configurações do Body   */
+
+body{
+    font-size: 100%;
+/*     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+ */}
+
+/* Header da Página Adote Aqui */
+
+header {
+    background-color: #FFFFEA;
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;   
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-imagem {
+    height: 82px;   
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item {
+    font-family: 'Sarala', sans-serif;
+    color: #000000;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.cabecalho-menu-item:hover {
+    color: #FFCE9E;
+    text-transform: uppercase;
+}
+
+/* Main da página Adote Aqui */
+
+.conteudo {
+    background-color: #D3D3D3;
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+    
+}
+
+.conteudo-caixa {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+}
+
+.conteudo-imagem {
+    width: 50%;
+    height: 50%;
+} 
+
+.conteudo-texto {
+    font-family: 'Sarala', sans-serif;
+    padding: 20px 200px 20px 200px;
+   
+} 
+
+.conteudo-botao-interno {
+    display: inline-block;
+    padding: 16px 32px;
+    background: #FFCE9E;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px;
+    color: #111;
+    /* font: 600 1.125rem/1.35 "Poppins", sans-serif; */
+    font-family: 'Sarala', sans-serif;
+    max-width: max-content;
+    border: none;
+    cursor: pointer;
+    margin: -300px 200px 30px 30px;
+
+}
+    
+.conteudo-botao-interno:hover {
+    background:#fff;
+    font-size: 16px;
+    font-weight: 100px;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+/* Footer da página Adote Aqui */
+
+.rodape {
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    justify-content: space-around;
+    padding: 40px;
+    background-color: #FFFFEA;
+}
+
+.rodape-imagem {
+    height: 82px; 
+}
+
+.rodape-texto {
+    padding-top: 30px;
+
+}
+
+/* Página Contato - Fale Conosco */
+
+fieldset {
+    border: 0;
+}
+
+.formulario-caixa {
+    background-color: #D3D3D3;
+    font-family: 'Sarala', sans-serif;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.formulario-completo {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.formulario-nome-sobrenome{
+     display: flex;  
+     flex-direction: row; 
+}
+
+.formulario-nome, .formulario-sobrenome {
+    display: flex;  
+    flex-direction: column; 
+    padding-left: 10px;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+}
+
+
+
+
+
