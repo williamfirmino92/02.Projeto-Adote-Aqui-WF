@@ -1,7 +1,6 @@
 # Projeto Resília - Adote Aqui
 
-Nesse projeto, apresento o meu curriculum atualizado constantemente com as informações que julgo mais importantes para o meu desenvolvimento.
-
+Fomos desafiados a realizar um website para uma ONG fictícia chamada ADOTE AQUI.
 
 ## 🚀 Finalidade
 
@@ -29,11 +28,11 @@ Utilizei como base as aulas e códigos demostrados em aulas do curso.
 Realizei duas versões da mesma proposta. A primeira optei em colocar um site mais moderno, mas acabei não utilizando a estruturação correta do html.
 Já na segunda, ficou um site mais estruturado com a utilização do HTML semântico.
 
-🖇️Primeiro projeto:
+🖇️Primeira vesão:
 ![image](https://user-images.githubusercontent.com/89873481/168181328-32c0e62b-ac59-4d73-b0f1-00037b07c19b.png)
 
 
-🖇️Segundo projeto:
+🖇️Segunda versão:
 ![image](https://user-images.githubusercontent.com/89873481/168181194-1b2f6852-ea63-46b7-8430-facc92c80800.png)
 
 
