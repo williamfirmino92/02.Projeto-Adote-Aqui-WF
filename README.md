@@ -9,7 +9,7 @@ O projeto foi realizado com finalidade do desenvolvimento de uma página web vol
 
 ## 📋 Tecnologias utilizadas
 
-🛠️No projeto, utilizei HTML5 de forma semânticam e o CSS3.
+🛠️No projeto, utilizei HTML5 de forma semântica e o CSS3.
 <div style="display: inline_block"><br>
 <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
